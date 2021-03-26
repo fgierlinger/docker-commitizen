@@ -1,5 +1,7 @@
 # Docker: Commitlint
 
+[![CI](https://github.com/fgierlinger/docker-commitizen/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/fgierlinger/docker-commitizen/actions/workflows/ci.yml) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
 Provides a docker container for aarch64 with commitizen.
 
 ## Usage
